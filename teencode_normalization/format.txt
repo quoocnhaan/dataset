@@ -1,0 +1,26 @@
+Hãy chuẩn hóa câu sau thành câu bình thường:,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Em gái bị đánh kia mà không rút đơn chắc cũng nhanh mà tầm 2 năm thôi,normalization
+Có bao nhiêu từ teencode trong câu sau:,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,3,counting
+"Cho cặp câu trong đó câu 1 là câu chứa các từ teencode và câu 2 là câu đã chuẩn hóa các từ teencode ở câu 1, cho biết có bao nhiêu từ teencode bị chuẩn hóa sai","Câu 1: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Câu 2: Em gái bị đánh kia mà không rút đơn chắc cũng nhanh mà tầm 2 năm thôi",0,counting
+"Cho cặp câu trong đó câu 1 là câu chứa các từ teencode và câu 2 là câu đã chuẩn hóa các từ teencode ở câu 1, cho biết có bao nhiêu từ teencode bị chuẩn hóa sai","Câu 1: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Câu 2: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi",3,counting
+Từ 'E' trong câu sau có phải là teencode không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'ko' trong câu sau có phải là teencode không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'cx' trong câu sau có phải là teencode không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'đánh' trong câu sau có phải là teencode không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+Từ 'rút' trong câu sau có phải là teencode không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+"Cho cặp câu trong đó câu 1 là câu chứa các từ teencode và câu 2 là câu đã chuẩn hóa các từ teencode ở câu 1, câu 2 chuẩn hóa có đúng không?","Câu 1: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Câu 2: Em gái bị đánh kia mà không rút đơn chắc cũng nhanh mà tầm 2 năm thôi",Đúng,y/n_question
+"Cho cặp câu trong đó câu 1 là câu chứa các từ teencode và câu 2 là câu đã chuẩn hóa các từ teencode ở câu 1, câu 2 chuẩn hóa có đúng không?","Câu 1: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Câu 2: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi",Sai,y/n_question
+Có 3 từ teencode trong câu sau đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Có 2 từ teencode trong câu sau đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+Từ 'E' trong câu sau mang ý nghĩa là 'Em' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'ko' trong câu sau mang ý nghĩa là 'không' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'cx' trong câu sau mang ý nghĩa là 'cũng' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Đúng,y/n_question
+Từ 'cx' trong câu sau mang ý nghĩa là 'cực' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+Từ 'ko' trong câu sau mang ý nghĩa là 'kệ' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+Từ 'E' trong câu sau mang ý nghĩa là 'Ê' đúng không?,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Sai,y/n_question
+"Cho cặp câu trong đó câu 1 là câu chứa các từ teencode và câu 2 là câu đã chuẩn hóa sai các từ teencode ở câu 1, hãy chuẩn hóa lại các từ bị chuẩn hóa sai","Câu 1: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Câu 2: E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi",Các từ bị chuẩn hóa sai: E, ko, cx. Sửa lại: Em gái bị đánh kia mà không rút đơn chắc cũng nhanh mà tầm 2 năm thôi,detection
+Cho biết các từ nào là teencode trong câu sau:,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,"Các từ teencode: E, ko, cx",detection
+"Cho từ 'Em' và câu sau có chứa teencode tương ứng, hãy thay thế từ teencode bằng từ đã cho:",E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Em gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,replacement
+"Cho từ 'không' và câu sau có chứa teencode tương ứng, hãy thay thế từ teencode bằng từ đã cho:",E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,E gái bị đánh kia mà không rút đơn chắc cx nhanh mà tầm 2 năm thôi,replacement
+"Cho từ 'cũng' và câu sau có chứa teencode tương ứng, hãy thay thế từ teencode bằng từ đã cho:",E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,E gái bị đánh kia mà ko rút đơn chắc cũng nhanh mà tầm 2 năm thôi,replacement
+Hãy phân tích cảm xúc câu có chứa các từ teencode sau:,E gái bị đánh kia mà ko rút đơn chắc cx nhanh mà tầm 2 năm thôi,Tiêu cực,sentiment
+hãy ghi nhớ cấu trúc này, không cần tiêu đề, sentiment chỉ có Tích cực/Tiêu cực/Trung lập, làm câu sau:
